@@ -9,6 +9,7 @@
 
 </br>
 
+
 ### 🍷 Contributors
 <table>
 <!-- 팀 -->
@@ -101,7 +102,7 @@
 
 |홈화면|로그인 및 회원가입|와인 추천 기능|
 |:---:|:---:|:---:|
-|![홈화면](https://github.com/Wine-O-clocK/.github/assets/80308473/5b681a59-5ac6-4350-af19-f6abf9efc681)|![로그인](https://github.com/Wine-O-clocK/.github/assets/80308473/623561e7-e759-4bc0-9fbe-9f0518a66fe8)|![추천](https://github.com/Wine-O-clocK/.github/assets/80308473/5dfda215-2e2b-4d28-b77b-ca28500cd1f1)|
+|![홈](https://github.com/Wine-O-clocK/.github/assets/80308473/5c7b16ee-1e2b-430a-ae27-5d460f61a837)|![로그인](https://github.com/Wine-O-clocK/.github/assets/80308473/623561e7-e759-4bc0-9fbe-9f0518a66fe8)|![추천](https://github.com/Wine-O-clocK/.github/assets/80308473/5dfda215-2e2b-4d28-b77b-ca28500cd1f1)|
 
 |와인 키워드 검색|와인 필터링 검색|와인 테스트|
 |:---:|:---:|:---:|
