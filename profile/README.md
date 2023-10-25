@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Wine-O-clocK/.github/assets/80308473/e0d143cd-9e62-4279-b69a-694ab8421865" />
+  <img src="https://github.com/Wine-O-clocK/.github/assets/80308473/74946730-1ffc-4498-b1fe-1073db07e187">
+  <h1>Wine'OclocK</h1>
+  <p> 와인 입문자를 위한 와인 추천 웹 서비스. 사용자의 행위에 따라 와인 추천이 달라지는 것이 특징입니다.. 와인 추천 웹 서비스를 더 많이 사용할수록 더욱 구체적인 추천을 받을 수 있습니다.</p>
 </div>
 
 </br></br>
@@ -70,6 +72,8 @@
 </br>
 
 ### 🍷 Development Environment & Language
+<img width="900" alt="image" src="https://github.com/Wine-O-clocK/.github/assets/80308473/88343835-9258-4bc9-affd-1701f2c4bc9b">
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -98,6 +102,7 @@
 
 
 
+
 ### 구현 기능
 
 |홈화면|로그인 및 회원가입|와인 추천 기능|
@@ -106,7 +111,7 @@
 
 |와인 키워드 검색|와인 필터링 검색|와인 테스트|
 |:---:|:---:|:---:|
-|![키워드검색](https://github.com/Wine-O-clocK/.github/assets/80308473/4713b455-6ab8-4a50-af90-2521435b210d)|![필터링검색](https://github.com/Wine-O-clocK/.github/assets/80308473/1156f4f3-dccf-45a2-b5e4-ddf42556c6fa)|![테스트](https://github.com/Wine-O-clocK/.github/assets/80308473/2881d7f8-a4f6-47cc-a26d-d0c4acbe861a)|
+|![키워드검색](https://github.com/Wine-O-clocK/.github/assets/80308473/4713b455-6ab8-4a50-af90-2521435b210d)|![필터링검색](https://github.com/Wine-O-clocK/.github/assets/80308473/1156f4f3-dccf-45a2-b5e4-ddf42556c6fa)|![테스트](https://github.com/Wine-O-clocK/.github/assets/80308473/251f1522-0a56-4f52-8fd3-bb56254f4540)|
 
 
 |저장하기|평가하기|
