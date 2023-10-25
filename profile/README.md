@@ -6,12 +6,12 @@
 
 </br></br>
 
-### 🍷 Project Duration 
+## 🍷 Project Duration 
 2022년 9월 ~ 2022년 12월
 
 </br>
 
-### 🍷 Description
+## 🍷 Description
 와인입문자들을 위한 와인 추천 및 검색 서비스.
 - 저렴한 가격의 와인들을 모아 추천
 - 상황에 맞는 와인들을 골라 추천
@@ -20,7 +20,7 @@
 </br>
 
 
-### 🍷 Contributors
+## 🍷 Contributors
 <table>
 <!-- 팀 -->
   <tr>
@@ -70,7 +70,7 @@
 
 </br>
 
-### 🍷 Development Environment & Language
+## 🍷 Development Environment & Language
 <img width="900" alt="image" src="https://github.com/Wine-O-clocK/.github/assets/80308473/88343835-9258-4bc9-affd-1701f2c4bc9b">
 
 <!--
@@ -87,7 +87,7 @@
 
 </br>
 
-### 🍷 Feature
+## 🍷 Feature
 - 검색기능
   - 필터링 검색 : 필터링을 통해 조건에 맞는 와인 검색
   - 키워드 검색 : 특정 키워드가 들어간 와인 검색
@@ -103,9 +103,7 @@
 </br>
 
 
-
-
-### 구현 기능
+## Testing
 
 |홈화면|로그인 및 회원가입|와인 추천 기능|
 |:---:|:---:|:---:|
