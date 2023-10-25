@@ -1,10 +1,9 @@
 # WineOclocK
-숙명여자대학교 22-02 졸업프로젝트
 
 </br></br>
 
 ### 🍷 Project Duration 
-2022년 9월 ~ 2023년 03월
+2022년 9월 ~ 2022년 12월
 
 </br>
 
@@ -50,7 +49,4 @@
   - 콘텐츠 기반, 아이템 기반, 잠재요인 기반 추천 알고리즘을 통한 와인 추천
 
 </br>
-
-### 🍷 URL
-[노션](https://boatneck-andesaurus-9a1.notion.site/WineOclocK-6c9020257e26435e9abc16e28aa15d79)
 
