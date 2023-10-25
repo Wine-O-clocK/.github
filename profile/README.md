@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github.com/Wine-O-clocK/.github/assets/80308473/e0d143cd-9e62-4279-b69a-694ab8421865" />
-  ![Wine-OclocK-포스터](https://github.com/Wine-O-clocK/.github/assets/80308473/e0d143cd-9e62-4279-b69a-694ab8421865)
 </div>
 
 </br></br>
