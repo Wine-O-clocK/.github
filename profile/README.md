@@ -10,6 +10,53 @@
 </br>
 
 ### 🍷 Contributors
+<table>
+<!-- 팀 -->
+  <tr>
+    <td align="center" colspan="2"><strong>프론트엔드</strong></td>
+    <td align="center" colspan="1"><strong>백엔드</strong></td>
+  </tr>
+
+<!-- 이미지 -->
+  <tr>
+    <!-- FE (예원) -->
+    <td>
+      <a href="https://github.com/yen001004">
+        <img src="https://github.com/Wine-O-clocK/.github/assets/80308473/629d602d-09d8-4ce3-b036-dd7937f5a923" width="200px"/>
+      </a>
+    </td>
+    <!-- BE (가비) -->
+    <td>
+      <a href="https://github.com/limgabi">
+        <img src="https://github.com/Wine-O-clocK/.github/assets/80308473/3aa061e9-95c8-4d47-911c-520daa31008e" width="200px"/>
+      </a>
+    </td>
+    <!-- BE (규리) -->
+    <td>
+      <a href="https://github.com/bnfkim">
+        <img src="https://github.com/Wine-O-clocK/.github/assets/80308473/93a554a5-d8d5-44a2-9f16-140628e906e6" width="200px"/>
+      </a>
+    </td>
+  </tr>
+
+<!-- 팀원 이름 -->
+  <tr>
+    <!-- FE (예원) -->
+    <td align="center">
+        <a href="https://github.com/yen001004">이예원</a>
+    </td>
+    <!-- FE (가비) -->
+    <td align="center">
+        <a href="https://github.com/limgabi">임가비</a>
+    </td>
+    <!-- BE (규리) -->
+    <td align="center">
+        <a href="https://github.com/bnfkim">김규리</a>
+    </td>
+  </tr>
+</table>
+
+
 - [김규리](https://github.com/bnfkim) : 백엔드
 - [이예원](https://github.com/yen001004) : 프론트엔드
 - [임가비](https://github.com/limgabi) : 프론트엔드
