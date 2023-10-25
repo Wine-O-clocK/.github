@@ -57,10 +57,6 @@
 </table>
 
 
-- [김규리](https://github.com/bnfkim) : 백엔드
-- [이예원](https://github.com/yen001004) : 프론트엔드
-- [임가비](https://github.com/limgabi) : 프론트엔드
-
 </br>
 
 
@@ -98,4 +94,21 @@
   - 콘텐츠 기반, 아이템 기반, 잠재요인 기반 추천 알고리즘을 통한 와인 추천
 
 </br>
+
+
+
+### 구현 기능
+
+|홈화면|로그인 및 회원가입|와인 추천 기능|
+|:---:|:---:|:---:|
+|![홈화면](https://github.com/Wine-O-clocK/.github/assets/80308473/5b681a59-5ac6-4350-af19-f6abf9efc681)|![로그인](https://github.com/Wine-O-clocK/.github/assets/80308473/623561e7-e759-4bc0-9fbe-9f0518a66fe8)|![추천](https://github.com/Wine-O-clocK/.github/assets/80308473/5dfda215-2e2b-4d28-b77b-ca28500cd1f1)|
+
+|와인 키워드 검색|와인 필터링 검색|와인 테스트|
+|:---:|:---:|:---:|
+|![키워드검색](https://github.com/Wine-O-clocK/.github/assets/80308473/4713b455-6ab8-4a50-af90-2521435b210d)|![필터링검색](https://github.com/Wine-O-clocK/.github/assets/80308473/1156f4f3-dccf-45a2-b5e4-ddf42556c6fa)|![테스트](https://github.com/Wine-O-clocK/.github/assets/80308473/2881d7f8-a4f6-47cc-a26d-d0c4acbe861a)|
+
+
+|저장하기|평가하기|
+|:---:|:---:|
+|![저장하기](https://github.com/Wine-O-clocK/.github/assets/80308473/e7b7089f-baa3-4a4c-be09-201fe30144d7)|![평가하기](https://github.com/Wine-O-clocK/.github/assets/80308473/ff5edd41-cb51-4b70-8324-5f88fe1e590f)|
 
